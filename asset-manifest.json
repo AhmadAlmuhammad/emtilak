@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/emtilak/static/css/main.7484bcb0.css",
+    "main.js": "/emtilak/static/js/main.56ddbf2e.js",
+    "static/js/787.8a7b6eca.chunk.js": "/emtilak/static/js/787.8a7b6eca.chunk.js",
+    "static/media/Group 2883.jpg": "/emtilak/static/media/Group 2883.546945f61f231ce55949.jpg",
+    "static/media/ispartakulegece0002-large-jpg30032017093519.jpg": "/emtilak/static/media/ispartakulegece0002-large-jpg30032017093519.a92aa3b1ad3d3ee3d3d1.jpg",
+    "static/media/109.jpg": "/emtilak/static/media/109.816ed55632d538bfbb75.jpg",
+    "static/media/Group 2885.jpg": "/emtilak/static/media/Group 2885.d920178f7690b0aa1f6d.jpg",
+    "static/media/Group 2872.jpg": "/emtilak/static/media/Group 2872.c309344064dce196a629.jpg",
+    "static/media/logo.svg": "/emtilak/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emtilak/index.html",
+    "main.7484bcb0.css.map": "/emtilak/static/css/main.7484bcb0.css.map",
+    "main.56ddbf2e.js.map": "/emtilak/static/js/main.56ddbf2e.js.map",
+    "787.8a7b6eca.chunk.js.map": "/emtilak/static/js/787.8a7b6eca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7484bcb0.css",
+    "static/js/main.56ddbf2e.js"
+  ]
+}
